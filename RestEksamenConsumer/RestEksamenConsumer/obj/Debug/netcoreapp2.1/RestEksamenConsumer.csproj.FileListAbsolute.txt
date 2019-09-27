@@ -1,0 +1,11 @@
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\bin\Debug\netcoreapp2.1\RestEksamenConsumer.deps.json
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\bin\Debug\netcoreapp2.1\RestEksamenConsumer.runtimeconfig.json
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\bin\Debug\netcoreapp2.1\RestEksamenConsumer.runtimeconfig.dev.json
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\bin\Debug\netcoreapp2.1\RestEksamenConsumer.dll
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\obj\Debug\netcoreapp2.1\RestEksamenConsumer.csprojAssemblyReference.cache
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\obj\Debug\netcoreapp2.1\RestEksamenConsumer.csproj.CoreCompileInputs.cache
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\obj\Debug\netcoreapp2.1\RestEksamenConsumer.AssemblyInfoInputs.cache
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\obj\Debug\netcoreapp2.1\RestEksamenConsumer.AssemblyInfo.cs
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\bin\Debug\netcoreapp2.1\RestEksamenConsumer.pdb
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\obj\Debug\netcoreapp2.1\RestEksamenConsumer.dll
+C:\Users\alexander\Desktop\rest\RestEksamenConsumer\RestEksamenConsumer\obj\Debug\netcoreapp2.1\RestEksamenConsumer.pdb
